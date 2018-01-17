@@ -1,0 +1,6 @@
+
+sudo make
+sudo insmod mhnull.ko
+
+now you can use the driver with /dev/mhnull
+
